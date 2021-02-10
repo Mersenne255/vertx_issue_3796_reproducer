@@ -9,5 +9,5 @@ https://github.com/eclipse-vertx/vert.x/issues/3796
 
 3. We want to get this curl message (at least several times):
 `curl: (28) Operation timed out after 50 milliseconds with 0 bytes received`
-4. Chech endpoint https://localhost:8080/metrics
+4. Check endpoint https://localhost:8080/metrics
 5. Metric `vertx_http_server_active_connections` should have negative values
